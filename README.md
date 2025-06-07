@@ -3,6 +3,7 @@
 Collection of scripts and utilities related to Flipkart data processing, scraping, and analysis. This repository may host multiple subprojects. Current subprojects include:
 
 - **flipkart_etl** – cleans Flipkart Excel exports and uploads them to PostgreSQL.
+- **order_report_etl** – uploads order report spreadsheets to PostgreSQL with an interactive selector.
 
 ## Getting Started
 
